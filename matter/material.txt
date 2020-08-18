@@ -1,0 +1,4 @@
+include active in all pages
+include header and footer through php 
+
+flaticons-vector images
